@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a data scientist with a background in political science and project management. I like repairing things and solving problems with data and code.
 <!--
 **to-schi/to-schi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
