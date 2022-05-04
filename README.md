@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a data scientist with a background in political science and project management. I like repairing things and solving problems with data and code.
 
-Languages and Tools I use:
+Languages and tools I use:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
