@@ -31,6 +31,12 @@ Languages and tools I use:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torsten-schilling-335a8761/)
 
 
+*Support my work:*
+
+<a href="https://www.buymeacoffee.com/tschi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="112" alt="tschi" /></a>
+
+
+
 <!--
 **to-schi/to-schi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
