@@ -26,6 +26,8 @@ Languages and tools I use:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Polars](https://img.shields.io/badge/Polars-0a8fba?style=for-the-badge&logo=polars&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 
 *Contact me on:*
 
